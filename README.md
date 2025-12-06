@@ -188,7 +188,7 @@ This project is available for educational and portfolio purposes. Please respect
 ## 📸 Screenshots
 
 ### Maven Cycles Main Dashboard
-![Maven Cycles Dashboard](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Maven Cycles Main Dashboard.png)
+![Maven Cycles Dashboard](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Maven%20Cycles%20Main%20Dashboard.png)
 *Interactive dashboard showing sales performance, revenue trends, and key business metrics*
 
 ### Sales Performance Analysis
