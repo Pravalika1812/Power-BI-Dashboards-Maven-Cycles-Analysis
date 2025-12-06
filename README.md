@@ -184,21 +184,28 @@ This project is available for educational and portfolio purposes. Please respect
 - Microsoft Power BI team for excellent documentation
 - Power BI community for continuous learning resources
 
+
 ## 📸 Screenshots
 
-*Note: Add screenshots of your dashboards here to give visitors a preview of the visualizations*
-
-```
-Example structure:
 ### Maven Cycles Main Dashboard
-![Main Dashboard] (Screenshots/Maven Cycles Main Dashboard.png)
+![Maven Cycles Dashboard](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Dashboard_Overview.png)
+*Interactive dashboard showing sales performance, revenue trends, and key business metrics*
 
 ### Sales Performance Analysis
-![Sales Analysis](screenshots/sales_analysis.png)
+![Sales Analytics](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Sales_Analysis.png)
+*Comprehensive sales analysis with product categories, geographic distribution, and time-series trends*
 
-### Data Model
-![Data Model](screenshots/data_model.png)
-```
+### Data Model & Relationships
+![Data Model](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Data_Model.png)
+*Star schema implementation showing table relationships and data structure*
+
+### Advanced Visualizations & KPIs
+![Advanced Visuals](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Visualizations.png)
+*Custom visuals, interactive charts, KPIs, and dynamic filtering demonstrations*
+
+---
+
+**📝 Note:** Screenshots showcase the interactive Power BI dashboards created in this project. These demonstrate data visualization techniques, DAX calculations, and business intelligence best practices.
 
 ---
 
