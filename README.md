@@ -11,18 +11,21 @@ This repository serves as a comprehensive learning and demonstration portfolio f
 ## 📁 Repository Contents
 
 ### Main Dashboards
-- **MyFirstVisualization.pbix** - Initial Power BI visualization project
-- **Part2 PL300.pbix** - Advanced Power BI data analyst exercises (PL-300 certification prep)
+- **Maven_Cycles_Dashboard.pbix** - Primary Maven Cycles business intelligence dashboard
+- **Advanced_Analytics_Report.pbix** - Advanced Power BI data analyst exercises (PL-300 certification prep)
 
-### Practice Activities
+### Learning Path Files
 A series of progressive Power BI exercises covering various features and techniques:
-- Practice Activity 1 to 5 - Data connection and basic visualizations
-- Practice Activity 6 - Intermediate data transformations
-- Practice Activity 7 - Advanced calculated columns
-- Practice Activity 8  - Measures and DAX functions
-- Practice Activity 10 - Data modeling relationships
-- Practice Activity 11 - Advanced visualizations
-- Practice Activity 17 - Dashboard optimization
+
+| File Name | Focus Area | Skills Covered |
+|-----------|------------|----------------|
+| **Data_Connection_Basics.pbix** | Data Sources | Connecting to Excel, CSV, databases, and web sources |
+| **Data_Transformation_ETL.pbix** | Data Cleaning | ETL processes, data shaping, and query optimization |
+| **Calculated_Columns_DAX.pbix** | DAX Basics | Creating calculated columns and understanding row context |
+| **Measures_And_KPIs.pbix** | DAX Advanced | Building measures, KPIs, and filter context |
+| **Data_Model_Relationships.pbix** | Data Modeling | Star schema, relationships, and cardinality |
+| **Advanced_Visualizations.pbix** | Visualizations | Custom visuals, formatting, and interactive elements |
+| **Dashboard_Optimization.pbix** | Optimization | Query performance, data reduction, and best practices |
 
 ### Configuration Files
 - **JSON_PBIDS.pbids** - Power BI data source connection file
@@ -95,22 +98,29 @@ This project analyzes business metrics for a cycling company, including:
 - Time-series trends and forecasting
 - Customer segmentation insights
 
-### Practice Activities
-Each practice activity focuses on specific Power BI skills:
-- Data source connections (Excel, CSV, databases)
-- Query editor transformations
-- Relationship modeling
-- DAX formula creation
-- Visual customization
-- Report publishing and sharing
+### Learning Activities
+Each learning file focuses on specific Power BI skills:
+
+**Beginner Level:**
+- `Data_Connection_Basics.pbix` - Master various data source connections
+- `Data_Transformation_ETL.pbix` - Learn ETL and data cleaning techniques
+
+**Intermediate Level:**
+- `Calculated_Columns_DAX.pbix` - Create calculated columns using DAX
+- `Measures_And_KPIs.pbix` - Build complex measures and KPIs
+- `Data_Model_Relationships.pbix` - Design effective data models
+
+**Advanced Level:**
+- `Advanced_Visualizations.pbix` - Create stunning visualizations
+- `Dashboard_Optimization.pbix` - Optimize dashboard performance
 
 ## 🎓 Learning Path
 
 This repository follows a structured learning approach:
 
-1. **Beginner** - Practice Activities 1-6: Basic data connections and simple visuals
-2. **Intermediate** - Practice Activities 7-11: Data modeling and DAX
-3. **Advanced** - Practice Activity 17 & Part2 PL300: Complex calculations and optimization
+1. **Beginner**: Basic data connections, Power Query, and simple visuals
+2. **Intermediate**: Data modeling, DAX formulas, and advanced visuals
+3. **Advanced**: Complex calculations, optimization, and certification prep
 
 ## 📝 Best Practices Demonstrated
 
@@ -146,7 +156,7 @@ This repository follows a structured learning approach:
 - [Power BI YouTube Channel](https://www.youtube.com/user/mspowerbi)
 
 ### PL-300 Certification
-These files align with Microsoft's PL-300: Power BI Data Analyst certification exam objectives.
+The `Advanced_Analytics_Report.pbix` file aligns with Microsoft's PL-300: Power BI Data Analyst certification exam objectives.
 
 ## 🤝 Contributing
 
@@ -177,6 +187,18 @@ This project is available for educational and portfolio purposes. Please respect
 ## 📸 Screenshots
 
 *Note: Add screenshots of your dashboards here to give visitors a preview of the visualizations*
+
+```
+Example structure:
+### Maven Cycles Main Dashboard
+![Main Dashboard](screenshots/main_dashboard.png)
+
+### Sales Performance Analysis
+![Sales Analysis](screenshots/sales_analysis.png)
+
+### Data Model
+![Data Model](screenshots/data_model.png)
+```
 
 ---
 
