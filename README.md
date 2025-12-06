@@ -191,7 +191,7 @@ This project is available for educational and portfolio purposes. Please respect
 ```
 Example structure:
 ### Maven Cycles Main Dashboard
-![Main Dashboard](Screenshots/Maven Cycles Main Dashboard.png)
+![Main Dashboard] (Screenshots/Maven Cycles Main Dashboard.png)
 
 ### Sales Performance Analysis
 ![Sales Analysis](screenshots/sales_analysis.png)
