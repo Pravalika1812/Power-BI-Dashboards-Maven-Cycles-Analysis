@@ -191,17 +191,17 @@ This project is available for educational and portfolio purposes. Please respect
 ![Maven Cycles Dashboard](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Maven%20Cycles%20Main%20Dashboard.png)
 *Interactive dashboard showing sales performance, revenue trends, and key business metrics*
 
-### Sales Performance Analysis
-![Sales Analytics](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Sales_Analysis.png)
-*Comprehensive sales analysis with product categories, geographic distribution, and time-series trends*
+### Year_region_sales_barchart
+![Sales Analytics](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Barchart.png)
+*Shows annual sales volume trends across UK regions, highlighting growth and regional contribution patterns.*
 
-### Data Model & Relationships
-![Data Model](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Data_Model.png)
-*Star schema implementation showing table relationships and data structure*
+### Map Visual
+![Geospatial visualization](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Map.png)
+*Geospatial visualization displaying regional sales distribution across the UK using location-based insights.*
 
-### Advanced Visualizations & KPIs
-![Advanced Visuals](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Visualizations.png)
-*Custom visuals, interactive charts, KPIs, and dynamic filtering demonstrations*
+### Waterfall Chart
+![Waterfall chart](https://github.com/Pravalika1812/Power-BI-Dashboards-Maven-Cycles-Analysis/blob/main/Screenshots/Waterfall.png)
+*Waterfall chart illustrating how year-over-year regional changes drive overall sales increases and decreases.*
 
 ---
 
