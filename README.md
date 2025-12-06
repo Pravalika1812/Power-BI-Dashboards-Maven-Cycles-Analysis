@@ -16,10 +16,10 @@ This repository serves as a comprehensive learning and demonstration portfolio f
 
 ### Practice Activities
 A series of progressive Power BI exercises covering various features and techniques:
-- Practice Activity 1 - Data connection and basic visualizations
+- Practice Activity 1 to 5 - Data connection and basic visualizations
 - Practice Activity 6 - Intermediate data transformations
 - Practice Activity 7 - Advanced calculated columns
-- Practice Activity 8 - Measures and DAX functions
+- Practice Activity 8  - Measures and DAX functions
 - Practice Activity 10 - Data modeling relationships
 - Practice Activity 11 - Advanced visualizations
 - Practice Activity 17 - Dashboard optimization
